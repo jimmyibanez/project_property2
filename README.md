@@ -24,6 +24,23 @@ The data was analyzed with R2 and RMSE metrics, and a price prediction model was
 
 ## Project 2
 
+### Objetive
+
+The objective is to apply the built-in techniques (Data Transformation, Hyperparameter Optimization, Advanced Modeling, etc.) to generate a model that performs better than the model generated in the previous project.
+
+## Transformation of data
+In this notebook will be performed firstly the detection and elimination of outliers, encoding, imputation of missing values, data scaling and the generation of new predictor variables / dimensionality reduction (SVD/PCA).
+
+Imputation will be performed through the analysis and modeling of 3 models, statistical, KNN and iterative, choosing the KNN model to perform the imputation. 
+
+Outlier detection and elimination was performed using the IQR method on the three types of ownership with respect to price. Subsequently, the environments within each property type were analyzed and the same rule was applied. 
+
+## Modeling
+
+The modeling part was performed with more specialized algorithms than in the first installment, using Random Forest, BagggingRegressor, AdabootsRegressor and Stacking. Finally, RandomForest was chosen and tested in the two models, the current one and the one from the previous project, resulting in an improvement in the prediction of the price of real estate properties. 
+
+
+
 
 
 
