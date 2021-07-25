@@ -4,5 +4,6 @@ The property dataset is given with real estate information of the federal provin
 In the project, several machine learning models were developed in order to predict the price behavior of different types of properties. 
 
 
-##Project 1
+## Project 1
+
 
