@@ -5,5 +5,7 @@ In the project, several machine learning models were developed in order to predi
 
 
 ## Project 1
+### Exploratory data analysis 
+
 
 
