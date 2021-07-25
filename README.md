@@ -16,7 +16,14 @@ In this section we took the federal capital as the best area for data analysis, 
 
 Outliers and missing values were eliminated from the dataset, in search of a better model. 
 
-At this point the Sklearn library was fundamental and several of its sublibraries were used, such as model_selection, linear_model, .tree, .neighbors, among others. 
+At this point the Sklearn library was fundamental and several of its sublibraries were used, such as model_selection, linear_model, .tree, .neighbors, among others.
+
+Subsequently, the dataframe was divided into 70% for training and 30% for testing. A linear regression model, a decision tree model and a nearest neighbor model were used to feed the dataframe. 
+
+The data was analyzed with R2 and RMSE metrics, and a price prediction model was arrived at. 
+
+## Project 2
+
 
 
 
